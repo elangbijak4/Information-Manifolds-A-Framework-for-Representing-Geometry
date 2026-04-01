@@ -1,0 +1,2 @@
+# Information-Manifolds-A-Framework-for-Representing-Geometry
+We introduce a novel framework, termed Information Manifolds, for representing geometric structures as discrete information states derived from local curvature signatures. Unlike classical topology, which focuses on invariants under continuous deformation, our approach captures the evolution of information induced by such transformations.
